@@ -1,0 +1,21 @@
+
+/* Class = "UIViewController"; title = "JournalVC"; ObjectID = "2D8-jw-vgT"; */
+"2D8-jw-vgT.title" = "JournalVC";
+
+/* Class = "UITabBarItem"; title = "Journal"; ObjectID = "9RK-Oc-h1O"; */
+"9RK-Oc-h1O.title" = "Journal";
+
+/* Class = "UITabBarItem"; title = "Add"; ObjectID = "OuS-qo-zep"; */
+"OuS-qo-zep.title" = "Add";
+
+/* Class = "UIViewController"; title = "AddTradeVC"; ObjectID = "ehi-Dg-boT"; */
+"ehi-Dg-boT.title" = "AddTradeVC";
+
+/* Class = "UIViewController"; title = "CalendarVC"; ObjectID = "ez5-SS-ZCc"; */
+"ez5-SS-ZCc.title" = "CalendarVC";
+
+/* Class = "UITabBarController"; title = "TabBar"; ObjectID = "ieI-Sm-qjt"; */
+"ieI-Sm-qjt.title" = "TabBar";
+
+/* Class = "UITabBarItem"; title = "Calendar"; ObjectID = "pzZ-wa-6Bg"; */
+"pzZ-wa-6Bg.title" = "Calendar";

@@ -14,7 +14,7 @@
 		042368BD2E820989005CC8F1 /* Exceptions for "TrackMint" folder in "TrackMint" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 042368A72E82097F005CC8F1 /* TrackMint */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 545DU58D33;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TrackMint/Info.plist;
+				INFOPLIST_FILE = TrackMint/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -175,7 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 545DU58D33;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TrackMint/Info.plist;
+				INFOPLIST_FILE = TrackMint/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
