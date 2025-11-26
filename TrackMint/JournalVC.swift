@@ -42,7 +42,7 @@ class JournalVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
             }
             navigationController?.pushViewController(addVC, animated: true)
         }
-    }
+    } 
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return trades.count
