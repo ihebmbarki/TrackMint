@@ -29,17 +29,17 @@ An iOS trading journal app designed to help traders log, track, and analyze thei
 
   <div style="text-align: center;">
     <p>Journal</p>
-    <img src="screenshots/journal.png" height="400"/>
+    <img src="screenshots/journal.png" width="300""/>
   </div>
 
   <div style="text-align: center;">
     <p>Notes</p>
-    <img src="screenshots/addNote.png" height="400"/>
+    <img src="screenshots/addNote.png" width="300"/>
   </div>
 
   <div style="text-align: center;">
     <p>Calendar</p>
-    <img src="screenshots/calendar.png" height="400"/>
+    <img src="screenshots/calendar.png" width="300"/>
   </div>
 
 </div>
